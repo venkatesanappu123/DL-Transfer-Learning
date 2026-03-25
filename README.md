@@ -3,9 +3,9 @@
 ## AIM
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
-## Problem Statement and Dataset
+## Problem Statement
 The aim of this experiment is to build an image classification model using transfer learning with the VGG19 architecture. The dataset will be loaded using TensorFlow, preprocessed, and used to train the model. The trained model will then be evaluated and tested on new images to measure its performance.
-
+## DATASET
 <img width="468" height="180" alt="image" src="https://github.com/user-attachments/assets/b9ba0536-43d1-4427-a016-f94c66dcdb30" />
 
 
